@@ -1,0 +1,15 @@
+#barcharts {
+  display: flex;
+    position: absolute;
+    top: 0vw;
+    transform: rotate(180deg) scaleX(-1);
+
+}
+
+.bars {
+  width: 25px;
+  height: 20px;
+  background-color: #888fc7;
+    border: solid 0.01vw black;
+
+}
